@@ -86,7 +86,7 @@
 | **api-gateway-proxy-token** | Gateway con autenticación JWT | JWT • Rate Limit • MongoDB • MySQL • Swagger • Docker |
 | **api-gateway-proxy-mtls** | Gateway con seguridad mTLS | mTLS • Rate Limit • MongoDB • MySQL • Swagger • Docker |
 | **message-queue-deno** | Cola de mensajes event-driven | Deno • RabbitMQ (AMQP) |
-| **ECommerce-Microservicios** | RESTful API | Node.js • Express • PostgreSQL • Nginx • Sequelize • Docker |
+| **ECommerce-MS** | RESTful API | Node.js • Express • PostgreSQL • Nginx • Sequelize • Docker |
 
 ## 🟨 **JavaScript** - Full Stack
 
