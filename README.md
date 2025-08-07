@@ -48,7 +48,7 @@
 ![Microservices](https://img.shields.io/badge/Microservices-1976D2?style=flat-square&logoColor=white)
 ![CQRS](https://img.shields.io/badge/CQRS-4CAF50?style=flat-square&logoColor=white)
 ![Event%20Driven](https://img.shields.io/badge/Event%20Driven-FF5722?style=flat-square&logoColor=white)
-![Distributed%20Systems](https://img.shields.io/badge/Distributed%20Systems-9C27B0?style=flat-square&logoColor=whit
+![Distributed%20Systems](https://img.shields.io/badge/Distributed%20Systems-9C27B0?style=flat-square&logoColor=white)
  
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
