@@ -100,6 +100,7 @@
 `NestJS` `AWS Lambda` `TypeScript` `Node.js` `PostgreSQL` `MongoDB` `Docker` `Microservicios` `CQRS` `Event-Driven Architecture`
 
 ## 🏗️ **Arquitecturas Implementadas**
+- **Clean architecture** con DDD
 - **Microservicios** con API Gateway
 - **Event-Driven Architecture** con Message Queues
 - **Serverless** con AWS Lambda
